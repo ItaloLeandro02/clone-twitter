@@ -37,7 +37,7 @@ const Tweet: React.FC = () => {
             <time>20 de set</time>
           </Header>
 
-          {/** //eslint-disabled-next-line */}
+          {/*eslint-disabled-next-line */}
           <Description>Foguete não tem ré 🚀</Description>
 
           <ImageContent />
